@@ -11,7 +11,7 @@ const styles = {
 
 const App = () => (
   <div>
-    <Counter />
+    <Counter header="This is a unstated Program"/>
   </div>
 );
 
